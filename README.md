@@ -1,2 +1,2 @@
-# 1st-HTML
+# About
 Just sharing the 1st HTML code I've written....uploading to github
